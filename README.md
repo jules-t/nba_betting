@@ -310,8 +310,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Jules Talbourdet**
 
-- GitHub: [@julestalbourdet](https://github.com/julestalbourdet)
-- LinkedIn: [Jules Talbourdet](https://linkedin.com/in/julestalbourdet)
+- GitHub: [@jules-t](https://github.com/jules-t)
+- LinkedIn: [Jules Talbourdet](www.linkedin.com/in/jules-talbourdet)
 
 ## Acknowledgments
 
